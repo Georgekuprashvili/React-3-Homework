@@ -20,7 +20,7 @@ body {
 @media (max-width: 760px) {
   .main_container {
     width: 368px;
-    height: 890px;
+    height: 910px;
     flex-direction: column;
   }
 }
