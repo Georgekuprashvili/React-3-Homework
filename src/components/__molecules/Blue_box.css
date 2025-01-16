@@ -1,0 +1,19 @@
+.paragraph_container {
+  width: 260px;
+  height: 134px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 14px;
+}
+.number_circle {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  background-color: rgb(97, 11, 227);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}

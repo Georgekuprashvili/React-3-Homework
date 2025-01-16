@@ -1,0 +1,12 @@
+.blue_box {
+  width: 368px;
+  height: 512px;
+  border-radius: 32px;
+  background-color: #4d21c9;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  
+}

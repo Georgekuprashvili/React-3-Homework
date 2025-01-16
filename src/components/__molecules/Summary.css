@@ -1,0 +1,89 @@
+.red_box {
+  width: 288px;
+  height: 56px;
+  border-radius: 12px;
+  background: var(
+    --red-95-white,
+    linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 0.95) 0%,
+      rgba(255, 255, 255, 0.95) 100%
+    ),
+    #f55
+  );
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 81px;
+}
+.color_box {
+  width: 288px;
+  height: 272px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.Yellow_box {
+  width: 288px;
+  height: 56px;
+  border-radius: 12px;
+  background: var(
+    --yellow-95-white,
+    linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 0.95) 0%,
+      rgba(255, 255, 255, 0.95) 100%
+    ),
+    #ffb21e
+  );
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 81px;
+}
+.green_box {
+  width: 288px;
+  height: 56px;
+  border-radius: 12px;
+  background: var(
+    --green-95-white,
+    linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 0.95) 0%,
+      rgba(255, 255, 255, 0.95) 100%
+    ),
+    #00bb8f
+  );
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 81px;
+}
+.blue_cont {
+  width: 288px;
+  height: 56px;
+  border-radius: 12px;
+  background: var(
+    --blue-95-white,
+    linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 0.95) 0%,
+      rgba(255, 255, 255, 0.95) 100%
+    ),
+    #1125d6
+  );
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 81px;
+}
+.button {
+  width: 288px;
+  height: 56px;
+  border-radius: 128px;
+  background: var(--Dark-Navy, #303b59);
+  border: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
